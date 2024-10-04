@@ -86,6 +86,11 @@ const config = {
             to: '/docs/lakshya',
             position: 'left'
           },
+          {
+            label: 'Kanishak Rajput',
+            to: '/docs/kanishak',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
