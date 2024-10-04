@@ -86,3 +86,5 @@ I have a calm mindset and competitive nature, which helps me in stressful and ch
 - *C++*
 - *C*
 - *Python*
+- *HTML*
+- *CSS*
