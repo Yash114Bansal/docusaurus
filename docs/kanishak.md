@@ -18,8 +18,8 @@ Hello, I'm Kanishak Rajput, a passionate software engineer with a keen interest 
 I'm always open to new opportunities and collaborations. If you have an interesting project or opportunity you'd like to discuss, please don't hesitate to get in touch with me:
 
 - *Email:* kanishakrajput08@gmail.com
-- *LinkedIn:* [John Doe on LinkedIn](https://www.linkedin.com/in/kanishak-rajput-06660728a/)
-- *GitHub:* [John Doe on GitHub](https://github.com/KanishakRajput13)
+- *LinkedIn:* [Kanishak Rajput on LinkedIn](https://www.linkedin.com/in/kanishak-rajput-06660728a/)
+- *GitHub:* [Kanishak Rajput on GitHub](https://github.com/KanishakRajput13)
 
 
 
