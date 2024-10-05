@@ -160,6 +160,11 @@ const config = {
             to: '/docs/Mrigank',
             position: 'left'
           },
+          {
+            label:'Anshika Gupta',
+            to: '/docs/anshika',
+            position: 'left'
+          },
           // {
           //   label: 'About',
           //   to: '/docs/about',
