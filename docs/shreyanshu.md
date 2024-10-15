@@ -17,7 +17,7 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
 
 
 
-## Task 1 : Portfolio
+### Task 1 : Portfolio
 
 <img src="https://i.ibb.co/kKpL8pc/Screenshot-2024-10-06-at-11-43-56-PM.png" alt="Image" width="400" />
 
@@ -30,7 +30,7 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
 
   - The key takeaway from this task was the importance of working under time constraints and collaborating effectively as a team, providing mutual support to achieve our objectives.
 
-## Task 2 : Animation
+### Task 2 : Animation
 
 <img src="https://i.ibb.co/LnxqzmG/Screenshot-2024-10-09-at-9-53-36-PM.png" alt="Image" width="400" />
 
@@ -44,6 +44,21 @@ Hello, I'm Shreyanshu , a passionate software engineer with a keen interest in w
   - Learned canvas element in html and its functions.
   - Learned sprite animation to enhance the experience.
   - Learned many JavaScript functions that can fasten and level up the work.
+  
+### Task 3 : Arcade Game
+
+<img src="https://i.ibb.co/nb7X3nb/Screenshot-2024-10-15-at-9-12-43-PM.png" alt="Image" width="400" />
+
+
+ - *Description:* Step into the mesmerizing world of Prince of Persia: HTML Odyssey, a browser-based adventure that captures the essence of the classic platformer. Using only HTML, CSS, and vanilla JavaScript, this game transports players to a mystical Persian landscape filled with mysteries and hurdles.
+ - *GitHub Repository:* [Task 3 Repo](https://github.com/Shreyanshu005/Prince-Of-Persia.git)
+ - *Hosted Link:* -(https://prince-of-persia-6c9z.vercel.app/)
+
+ # Learnings
+
+  - Learned team spirit and collaborative work.
+  - Learned to handle branches and merge conflicts.
+  - Learned to identify bugs and resolve them.
 
 
 
