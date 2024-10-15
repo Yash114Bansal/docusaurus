@@ -38,6 +38,17 @@ Hello, I'm **Shivansh Goyal**, a 2nd-year B.Tech student in Computer Science at 
 
 In this project, I improved my skills in creating real-time animations using JavaScript. I implemented a bullet shooting system, dynamic explosion effects, and developed an auto-play functionality using recorded events.I got to learn and develop a lot of logic for all these functionality which helped me improve my overall logic.I will be improving the game to make it more engaging.
 
+### Task 3: Zombie Tsunami Clone (Team Project)
+
+<img src="https://i.postimg.cc/hvwYrtFm/Screenshot-2024-10-15-201232.png" alt="Image" width="823" height="539" />
+
+- **Description:** A collaborative team project developed using HTML5, CSS3, and vanilla JavaScript. This game replicates the core mechanics of the popular Zombie Tsunami game, where players control a horde of zombies, jumping over obstacles, collecting humans, and avoiding hazards like moving cars and helicopters. The project includes dynamic sprite-based animations for zombies, cars, and other obstacles, as well as custom road generation with gaps. The team implemented various game elements, including traffic light mechanics, zombie movement synchronization, and obstacle interactions to create a seamless and engaging gameplay experience.
+
+- *GitHub Repository* - https://github.com/goyalshivansh2805/zombie-tsunami
+- *Hosted Link* - https://zombie-tsunami.vercel.app/
+
+Through teamwork, me and Astha improved our game development skills, focusing on real-time character animations, collision detection, and gameplay synchronization. we both contributed to coding and design, and we plan to continue refining and enhancing the game.
+
 ## Featured Work
 
 ### Project 1: Task Manager
