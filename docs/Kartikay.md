@@ -36,7 +36,7 @@ I'm excited about the possibilities that lie ahead in the field of AI and ML, an
 ## Projects
 
 1. **[Portfolio Website](https://portfolio-three-kappa-90.vercel.app)**
-</br>
+<br />
   <a href="https://ibb.co/6XPyQLW"><img src="https://i.ibb.co/6XPyQLW/portfolio.png" alt="portfolio" width="100%" height="100%" border="0" /></a>
   - A simple portfolio website created using HTML, CSS, and JS.
   - Features:
@@ -47,7 +47,7 @@ I'm excited about the possibilities that lie ahead in the field of AI and ML, an
   - **[Portfolio GitHub](https://github.com/Kartikayy007/Portfolio)**
 
 2. **[PokéCatch](https://pokecatch-six.vercel.app)**
-</br>
+<br />
   <a href="https://ibb.co/bsk1w4t"><img src="https://i.ibb.co/bsk1w4t/pokecatch.png" alt="pokecatch" width="100%" height="100%" border="0" /></a>
     - PokéCatch is a fun, browser-based game built using HTML, CSS, and Vanilla JavaScript. Play as Ash, the Pokémon trainer, and catch Pikachu while avoiding Psyduck! The objective is to catch as many Pokémon as you can by throwing Pokéballs, while navigating through the game environment.
     - Features:
@@ -57,7 +57,7 @@ I'm excited about the possibilities that lie ahead in the field of AI and ML, an
     - **[PokéCatch GitHub](https://github.com/Kartikayy007/PokeCatch)**
 
 3. **[International SuperStar Soccer](https://international-superstar-soccer-evxf.vercel.app)**
-</br>
+<br />
   <a href="https://ibb.co/mCx1y7J"><img src="https://i.ibb.co/mCx1y7J/football.png" alt="football" width="100%" height="100%" border="0" /></a>
 
     - International SuperStar Soccer is a browser-based soccer game built using HTML, CSS, and Vanilla JavaScript. Play as team Argentina and score goals to win the match! The objective is to score as many goals as you can within the time limit.
