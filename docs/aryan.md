@@ -26,7 +26,7 @@ Hello, I'm Aryan garg, a passionate software engineer with a keen interest in we
 
 Also, i got to know a lot of issues in it and i will try to fix all of them ASAP and also apply the suggestions suggested by seniors.
 
-### Task 1
+### Task 2
 
 <img src="https://i.postimg.cc/Y9Gsd9N7/image.png" alt="Image" width="823" height="539" />
 
@@ -38,6 +38,15 @@ Also, i got to know a lot of issues in it and i will try to fix all of them ASAP
 
 Also, i got to know a lot of issues in it and i will try to fix all of them ASAP and also apply the suggestions suggested by seniors.
 
+### Task 3
+
+<img src="https://i.postimg.cc/GtMyKvgj/image.png" alt="Image" width="823" height="539" />
+
+- *Description:* I developed a mini clone of Virtual cop 2 game clone which lets you experience a mini version of VC2.
+- *GitHub Repository* - <https://github.com/Sneha-005/Virtual-cop-2>
+- *Hosted Link* - <https://virtual-cop-2.vercel.app/>
+
+- In this project, I learned about game making and how collions and other thisgs work in a game and also got to know more depth of DOM manipulation in js.
 
 ## Featured Work
 
